@@ -176,7 +176,6 @@ class ShipStationAddress(ShipStationBase):
         city=None,
         state=None,
         postal_code=None,
-        country=None,
         phone=None,
         residential=None,
     ):
